@@ -22,4 +22,3 @@ if ($base64code != null) {
         )
     );
 }
-echo $im;
